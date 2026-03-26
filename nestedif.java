@@ -14,7 +14,7 @@ public class nestedif {
                 System.out.println("Eligible to avail government fund");
             }
             else
-            System.out.println("we are not eligible to vote and avail government scheme");
+            System.out.println("we are not eligible to vote and not avail government scheme");
         }
         else
         System.out.println("we are not eligible to voting");
